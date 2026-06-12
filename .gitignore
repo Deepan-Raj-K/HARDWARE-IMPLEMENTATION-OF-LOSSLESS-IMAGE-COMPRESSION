@@ -29,7 +29,20 @@ transcript
 # Simulation run copies
 modelsim_simulation/
 
+# Presentations
+*.pptx
+
 # Unrelated
 Linux_Reader.exe
 misc*.zip
 gui.txt
+
+# Verilog codes folder (separate from escape_coding/decoding)
+verilog codes/
+
+# Dataset (reconstructed by scripts)
+pre and post processing/dataset/
+pre and post processing/*.bmp
+pre and post processing/*.bin
+pre and post processing/*.heic
+pre and post processing/*.tiff
