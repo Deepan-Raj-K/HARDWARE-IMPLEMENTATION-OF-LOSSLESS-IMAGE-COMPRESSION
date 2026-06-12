@@ -1,0 +1,35 @@
+# Quartus generated
+db/
+incremental_db/
+output_files/
+*.rpt
+*.done
+*.sof
+*.jdi
+*.pin
+*.sld
+c5_pin_model_dump.txt
+
+# Modelsim transient
+rtl_work/
+modelsim.ini
+msim_transcript
+*.wlf
+wlft*
+transcript
+*.sft
+*.vo
+*.xrf
+*.mif
+
+# Backups
+*.bak
+*.bak[0-9]*
+
+# Simulation run copies
+modelsim_simulation/
+
+# Unrelated
+Linux_Reader.exe
+misc*.zip
+gui.txt
