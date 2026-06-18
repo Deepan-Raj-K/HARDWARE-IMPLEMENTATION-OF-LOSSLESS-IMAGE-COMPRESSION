@@ -46,3 +46,12 @@ python codes/
 escape_coding/
 escape_decoding/
 verilog codes/
+
+# Vivado generated
+vivado/*.cache/
+vivado/*.hw/
+vivado/*.sim/
+vivado/*.runs/
+vivado/*.jou
+vivado/*.log
+vivado/*.str
