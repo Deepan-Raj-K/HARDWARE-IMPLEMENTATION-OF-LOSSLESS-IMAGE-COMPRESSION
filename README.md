@@ -91,3 +91,9 @@ python scripts/escape_coding.py    # Full encode/decode with escape support
 python scripts/encoder.py          # Basic encoder reference
 python scripts/escape_decoding.py  # Standalone decoder
 ```
+
+## Contributors
+
+- [@AbhishekSikaRavi](https://github.com/AbhishekSikaRavi)
+- [@Deepan-Raj-K](https://github.com/Deepan-Raj-K)
+- [@VinayagaVV](https://github.com/VinayagaVV)
